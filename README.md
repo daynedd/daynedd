@@ -1,4 +1,5 @@
-### Hi there 👋
+Welcome to my Place.
+无丝竹之乱耳，无案牍之劳形
 
 <!--
 **daynedd/daynedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![dayned's GitHub stats](https://github-readme-stats.vercel.app/api?username=daynedd)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
