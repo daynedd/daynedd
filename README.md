@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 **SKILLS&ENVS:**
 </a>
-<code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python/[DARK_MODE_COLOR].svg" /></code>
+<code><img height="16" width="16" src="https://cdn.simpleicons.org/python/blue/white" /></code>
