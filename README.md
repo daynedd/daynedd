@@ -1,7 +1,8 @@
-Welcome to my Place.</a>
+Welcome to my Place.🚰</a>
 
 
-无丝竹之乱耳，无案牍之劳形
+无丝竹之乱耳，无案牍之劳形。🍵
+
 
 <!--	
 **daynedd/daynedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daynedd&layout=compact" />
 
 
-**SKILLS&ENVS:**
-</a>
-<code><img height="32" width="300" src="https://skillicons.dev/icons?i=js,html,css,matlab,java,python,mysql,linux,latex,autocad" /></code>
+**SKILLS:**
+
+<code><img height="32" width="300" src="https://skillicons.dev/icons?i=js,html,css,matlab,java,python,mysql,linux,latex,autocad,fortran" /></code>
+
