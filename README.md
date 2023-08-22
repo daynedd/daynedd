@@ -3,22 +3,18 @@
 
 无丝竹之乱耳，无案牍之劳形。🍵
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/daynedd/pic/blob/main/_DYN5145%20(1).jpg" width="360px"/>
+### About me 关于鄙人👾：</a>
 
-<!--	
-**daynedd/daynedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👽&nbsp;  UofT Physics & Mathematic  </a>
 
-Here are some ideas to get you started:
+- 🩻&nbsp;  Large format film photographer </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  ✒&nbsp;  Fountain pen collector </a>
+
+-  💾&nbsp;  Pervious Reaseach area: smFRET on TIRF and Confocal by using ALEX, non-linear dynamics,stock analysising </a>
+
+
 ## Some Statistics 阅金经📖：
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daynedd" />
