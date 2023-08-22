@@ -12,6 +12,8 @@
 
 -  ✒&nbsp;  Fountain pen collector </a>
 
+-  🧿&nbsp;  Vinyl Record collector </a>
+
 -  💾&nbsp;  Pervious Reaseach area: smFRET on TIRF and Confocal by using ALEX, non-linear dynamics,stock analysising </a>
 
 ## SKILLS 调素琴🎹：
