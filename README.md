@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 **SKILLS&ENVS:**
 </a>
-<code><img height="16" width="16" src="https://cdn.simpleicons.org/python/blue/white" /></code>
+<code><img height="32" width="300" src="https://skillicons.dev/icons?i=js,html,css,matlab,java,python,mysql,linux,latex,autocad" /></code>
