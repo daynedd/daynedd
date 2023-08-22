@@ -1,4 +1,4 @@
-Welcome to my Place.<br />
+Welcome to my Place.</a>
 
 
 无丝竹之乱耳，无案牍之劳形
@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![dayned's GitHub stats](https://github-readme-stats.vercel.app/api?username=daynedd)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daynedd&layout=compact)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daynedd)](https://github.com/anuraghazra/github-readme-stats" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daynedd&layout=compact" />
+
 <br />
 SKILLS&ENVS:
 <code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" /><code>
